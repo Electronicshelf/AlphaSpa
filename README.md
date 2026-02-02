@@ -369,4 +369,4 @@ MIT License - see LICENSE file
 
 ## 🙏 Acknowledgments
 
-Built for OLED display quality validation and uniformity testing at Apple.
+Built for OLED display quality validation and uniformity.
